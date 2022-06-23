@@ -25,6 +25,6 @@ https://youtu.be/qVn1Tn3ssic
 </div>
 
 
-<div align=center> 
+<a align=center> 
 ![sinyoung12's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinyoung12&show_icons=true&theme=sinyoungStats)
-</div>
+</a>
