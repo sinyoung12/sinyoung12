@@ -12,14 +12,17 @@
   <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=green">     
 </div>
 
-<div><h1>Mini-1</h1></div>  
+<div><h1>👨Project</h1></div> 
+<div align=center> 
+<div><h2>Mini-1</h2></div>  
 https://youtu.be/atfJtjIbu64
 
-<div><h1>Mini-2</h1></div>
+<div><h2>Mini-2</h2></div>
 https://youtu.be/CNOFFF1v2aM
 
-<div><h1>clone coding</h1></div>
+<div><h2>clone coding</h2></div>
 https://youtu.be/qVn1Tn3ssic
+</div>
 
 
 
