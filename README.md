@@ -24,8 +24,8 @@ https://youtu.be/CNOFFF1v2aM
 https://youtu.be/qVn1Tn3ssic
 </div>
 
-[![Anurag's github stats]
-(https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
+
+https://github-readme-stats.vercel.app/api?username=username)
 
 
 
