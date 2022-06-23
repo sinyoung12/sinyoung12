@@ -24,11 +24,7 @@ https://youtu.be/CNOFFF1v2aM
 https://youtu.be/qVn1Tn3ssic
 </div>
 
-<a href="https://velog.io/@tlsdud210">
-    <img 
-        src="http://img.shields.io/badge/-TIL-WIL-FAFAD2?style=flat&logo=logo&link=https://velog.io/@tlsdud210"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+<a href="https://velog.io/@tlsdud210"></a>
 
 
 
