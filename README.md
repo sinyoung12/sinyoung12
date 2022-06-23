@@ -24,11 +24,8 @@ https://youtu.be/CNOFFF1v2aM
 https://youtu.be/qVn1Tn3ssic
 </div>
 
-<div>
-<a href="https://velog.io/@tlsdud210"></a>
-</div>
 
 
-
+sinyoung12's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinyoung12&show_icons=true&theme=sinyoungStats)
 
 
