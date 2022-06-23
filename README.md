@@ -25,7 +25,6 @@ https://youtu.be/qVn1Tn3ssic
 </div>
 
 
-https://github-readme-stats.vercel.app/api?username=username)
 
 
 
