@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**sinyoung12/sinyoung12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div><h1>🛠STACKS🛠</h1></div>   
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -16,4 +11,3 @@
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=pink">   
   <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=green">     
 </div>
-
