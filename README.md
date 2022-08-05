@@ -10,7 +10,7 @@
   <br>
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=pink">   
   <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=green">
-  <img src="https://img.shields.io/badge/axios-1877F2?style=flat&logo=ssockjs&logoColor=white">
+  <img src="https://img.shields.io/badge/axios-04ACE6?style=for-the-badge&logo=cloudfront&logoColor=white">
 <img src="https://img.shields.io/badge/react query-61DAFB?style=for-the-badge&logo=reactquery&logoColor=FF4154">
   <img src="https://img.shields.io/badge/recoil-F7A81B?style=for-the-badge&logo=route53&logoColor=white"><br>
   <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=green">
