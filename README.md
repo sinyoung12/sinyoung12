@@ -23,6 +23,9 @@ https://youtu.be/CNOFFF1v2aM
   
 <div><h2>👱‍♂️clone coding</h2></div>
 https://youtu.be/qVn1Tn3ssic
+
+<div><h2>👳‍♀️practical project</h2></div>
+https://youtu.be/44gPimI_pqI
 </div>
 
 
